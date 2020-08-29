@@ -1,0 +1,9 @@
+{
+  "MongoDB": {
+    "connectionLink": "MONGODBURL"
+  },
+  "jsonWebToken": {
+    "ACCESS_TOKEN_SECRET": "ACCESS TOKEN"
+  },
+  "secret": "YourSecret"
+}

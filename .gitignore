@@ -1,0 +1,5 @@
+server/node_modules
+server/data
+server/config.json
+client
+config.json
